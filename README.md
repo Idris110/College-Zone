@@ -1,4 +1,4 @@
-<br />
+<!-- <br />
 <p align="center">
   <img src="assets/images/collegeZoneLogo.png"  width="20%"/>
 </p>
@@ -584,3 +584,4 @@ The complete setup can be found in the [package.json](/package.json).
 
 
 <sub>Changing lives through technology.</sub>
+ -->
